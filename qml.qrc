@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Components/OuterArc.qml</file>
+        <file>Components/InnerRect.qml</file>
+        <file>Assets/needle.svg</file>
+        <file>Assets/shadeimg.png</file>
+        <file>Fonts/CenturyGothicRegular.ttf</file>
+        <file>Assets/car (1).png</file>
+        <file>Assets/car.png</file>
+        <file>Assets/fuel-station.png</file>
+        <file>Assets/motor.png</file>
+        <file>Components/RightMeters.qml</file>
+        <file>Components/LeftMeters.qml</file>
+    </qresource>
+</RCC>
